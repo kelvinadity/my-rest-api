@@ -3,7 +3,7 @@ const fs = require('fs')
 global.creator = 'Zeeoneofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://Kelvinsamp:kelvin_123@data-kelvinzmodz.ejwgyrq.mongodb.net/?retryWrites=true&w=majority&appName=Data-kelvinzmodz" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = khontolbhabi5@gmail.com"" //email
+global.your_email = "khontolbhabi5@gmail.com" //email
 global.email_password = "bmgh njto faml olyu" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
